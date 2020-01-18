@@ -5,7 +5,7 @@ import { SearchForm } from './components/SearchForm';
 import './App.css';
 
 const API_URL = 'https://api.openweathermap.org/data/2.5';
-const API_KEY = '103d2bea1f0fea90b85f7ca4c51dcc4f';
+const API_KEY = ''; // ДОБАВИТЬ СЮДА API KEY
 
 class App extends React.Component {
   state = {
